@@ -242,3 +242,14 @@
     border-radius: 100%;
     padding: 20px;
 }
+
+.wire {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.toggle-cl {
+    background-color: grey;
+    color: antiquewhite;
+}
